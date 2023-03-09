@@ -1,6 +1,5 @@
 # Creon-Datareader-Mongo
-대신증권의 HTS인 CREON의 Plus API를 사용하여 주가 데이터를 받아오는 PyQt 기반의 프로그램이며 nestjs와의 연동을 위해서
-    MongoDB를 선택했습니다.
+- 대신증권의 HTS인 CREON의 Plus API를 사용하여 주가 데이터를 받아오는 PyQt 기반의 프로그램이며 nestjs와의 연동을 위해서 MongoDB를 선택했습니다.
 ---
 # Configuration
 ## Enviroment Configuration
